@@ -8,11 +8,11 @@ Use case login as user for app
 
 button 1 give suggestion for SE region
 
-button 2 give suggestion for SE region
+button 2 give suggestion for SW region
 
-button 3 give suggestion for SE region
+button 3 give suggestion for NE region
  
-button 4 give suggestion for SE region
+button 4 give suggestion for NW region
  
 Use case for button 1 (give suggestion for SE region)
  
