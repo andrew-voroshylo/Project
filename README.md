@@ -22,19 +22,19 @@ Use case for button 1 (give suggestion for SE region)
  
 Extra functionality User can see approved and not approved posts 
  
-Use case for button 2 (give suggestion for SE region)
+Use case for button 2 (give suggestion for SW region)
  
 1) create landing page for button 2
  
 2) Show Top rated amusement parks
  
-Use case for button 3 (give suggestion for SE region)
+Use case for button 3 (give suggestion for NE region)
  
 1) create landing page for button 3
  
 2) Show Top rated amusement parks
  
-Use case for button 4 (give suggestion for SE region)
+Use case for button 4 (give suggestion for NW region)
  
 1) create landing page for button 4
  
