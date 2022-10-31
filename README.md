@@ -15,8 +15,6 @@ Have a static login page with hardcoded role
 
 2) Create a page after login that will register customers
 
-3) Create a page after login that will Create order functionality
-
 4) Create a page after login that will view customer and dependents details
 
 5) Create a page after login that will De-register dependents
