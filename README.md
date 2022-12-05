@@ -17,4 +17,4 @@ Have a static login page with hardcoded role
 
 4) Create a page after login that will view customer and dependents details
 
-5) Create a page after login that will De-register dependents
+5) Create a page after login that will De-register dependents.
