@@ -1,9 +1,8 @@
 Case study:  Customer Management
 
-Register customers and add one or more dependents
-Create order functionality should accept ID proof as a mandatory attachment (System should accept Jpg or PDF)
+Register customers
 View customer and dependents details
-De-register dependents
+De-register customers
 
 Expectations and Deliverables:
 -  REST API & ORM (Hibernate with JPA for Java / Entity Framework for MS) should be used to implement business logics.
@@ -17,4 +16,4 @@ Have a static login page with hardcoded role
 
 4) Create a page after login that will view customer and dependents details
 
-5) Create a page after login that will De-register dependents.
+5) Create a page after login that will De-register customers
